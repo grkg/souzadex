@@ -10,9 +10,9 @@ Cada Souza da galeria foi enviado por alguém da comunidade via pull request.
 
 ## Como contribuir
 
-Para contribuir com o projeto, confira as instruções completas em [CONTRIBUTING.md](CONTRIBUTING.md).]
+Para contribuir com o projeto, confira as instruções completas em [CONTRIBUTING.md](CONTRIBUTING.md).
 
-##### Contribuidores
+## Contribuidores
 
 
 ## Licença
