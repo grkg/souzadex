@@ -17,7 +17,7 @@ O arquivo `souzas.js` é gerado automaticamente por um workflow do GitHub Action
 
 ### Passo a passo
 
-1. Crie sua imagem do Souza usando a ferramenta de IA de sua preferência.
+1. Crie sua imagem do Souza usando a ferramenta de IA de sua preferência, a partir da [foto original](https://souzadex.vercel.app/souza.html?foto=Original.jpeg) ou de alguma de suas variações já publicadas na galeria.
 2. Dê ao arquivo o nome que será o título na galeria. Exemplos:
    - `Astronauta.png` aparece como "Astronauta"
    - `Souza-Samurai.jpg` aparece como "Souza Samurai" (hífens e underscores viram espaço)
@@ -31,6 +31,7 @@ O arquivo `souzas.js` é gerado automaticamente por um workflow do GitHub Action
 - Formatos aceitos: `.jpg`, `.jpeg`, `.png` ou `.gif`.
 - A imagem deve estar em `assets/images/`.
 - A imagem deve ser do Souza, gerada por IA.
+- A imagem deve ser criada a partir da [foto original](https://souzadex.vercel.app/souza.html?foto=Original.jpeg) ou de alguma de suas variações já publicadas na galeria.
 - Boa qualidade: sem imagens borradas, cortadas ou ilegíveis.
 - Não modifique nenhum outro arquivo do projeto no mesmo PR.
 - Não repita um Souza que já existe na galeria (confira antes de enviar).
