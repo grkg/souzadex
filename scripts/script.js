@@ -1,7 +1,7 @@
 (function () {
   "use strict";
 
-  var SIZE_OPTIONS = [10, 20, 30, 50];
+  var SIZE_OPTIONS = [20, 40];
   var DEFAULT_SIZE = 20;
 
   var grid = document.getElementById("grid");
